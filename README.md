@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/aadityazz/ASSETS/main/Data%20Science%20Enthusiast%2C%20Software%20Developer%20(Presentation%20(169)).png" alt="Aditya Gupta">
 
-<h3 align="center">A passionate Web Developer [MERN Stack] worked on many projects with both Frontend and Backend Development, Besides that, I am also a passionate and enthusiast about Data Science and currently leaning ML.</h3>
+<h5 align="center">A passionate Web Developer [MERN Stack] worked on many projects with both Frontend and Backend Development, Besides that, I am also a passionate and enthusiast about Data Science and currently leaning ML.</h3>
 
 ## Find me around the web 🌎: 
 <a href="https://github.com/aadityazz"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/aadityazz/ASSETS/main/Untitled%20design.gif"></a>

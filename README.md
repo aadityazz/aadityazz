@@ -7,9 +7,9 @@
 ## Find me around the web 🌎: 
 <a href="https://github.com/aadityazz"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/aadityazz/ASSETS/main/Untitled%20design.gif"></a>
 <br>
--     Check me out on <a href="https://www.aditya-gupta.me/">Portfolio</a>📹 ✍
--     Smashing Brain on <a href = "https://leetcode.com/aditya_zz/">Leetcode</a> 🧠 
--     Sharing updates on <a href="https://www.linkedin.com/in/aditya-gupta-aa7524201/">LinkedIn</a> 💼
+- Check me out on <a style="padding-left:20px" href="https://www.aditya-gupta.me/">Portfolio</a>📹 ✍
+- Smashing Brain on <a style="padding-left:20px" href = "https://leetcode.com/aditya_zz/">Leetcode</a> 🧠 
+- Sharing updates on <a style="padding-left:20px" href="https://www.linkedin.com/in/aditya-gupta-aa7524201/">LinkedIn</a> 💼
 
 </br>
 

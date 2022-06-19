@@ -11,7 +11,7 @@
 - Smashing Brain on <a style="padding-left:20px" href = "https://leetcode.com/aditya_zz/">Leetcode</a> 🧠 
 - Sharing updates on <a style="padding-left:20px" href="https://www.linkedin.com/in/aditya-gupta-aa7524201/">LinkedIn</a> 💼
 
-</br>
+<br/>
 
 <br>
 

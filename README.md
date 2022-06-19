@@ -6,11 +6,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="aditya-gupta-aa7524201 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aditya-gupta-aa7524201/)
+[<img align="left" color="blue" alt="aditya-gupta-aa7524201 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aditya-gupta-aa7524201/)
 
-<a target="_blank" href="https://icons8.com/icon/kSC2OcpmW6rC/portfolio">Portfolio icon by Icons8
-<img align="center" src="https://aditya-gupta.me/" alt="aditya-gupta.com" height="30" width="40"/>
-</a>
+
+[<img align="left" color="blue" alt="aditya-gupta.me" width="22px" src="https://icons8.com/icon/kSC2OcpmW6rC/portfolio" />](https://aditya-gupta.me/))
 
 
 <h3 align="left">Languages and Tools:</h3>

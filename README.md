@@ -36,11 +36,15 @@
 </br>
 
 ---
+<div>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  ## 📊 &nbsp;My activities
+  <a href="https://github.com/aadityazz">
+    <img width=450 height=170 align="center" alt="aadityazz" src="https://github-readme-stats.vercel.app/api?username=aadityazz&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/aadityazz">
+    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityazz&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
 
-  <img align="left" alt="AdityaGupta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aadityazz&show_icons=true&hide_border=true" />
-
-</details>
 

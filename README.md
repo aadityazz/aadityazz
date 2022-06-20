@@ -1,13 +1,13 @@
-#### Hi there 👋 , I'm Aditya Gupta
+<h1>Hi there 👋 , I'm Aditya Gupta<h1>
 
 <img src="https://raw.githubusercontent.com/aadityazz/ASSETS/main/Data%20Science%20Enthusiast%2C%20Software%20Developer%20(Presentation%20(169)).png" alt="Aditya Gupta">
 
 <h4 align="center">A passionate Web Developer [MERN Stack] worked on many projects with both Frontend and Backend Development, Besides that, I am also a passionate and enthusiast about Data Science and currently leaning ML.</h4>
 
 ## Find me around the web 🌎:
-- 1. Check me out on <a style="padding-left:20px" href="https://www.aditya-gupta.me/">Portfolio</a>📹 ✍
-- 2. Smashing Brain on <a style="padding-left:20px" href = "https://leetcode.com/aditya_zz/">Leetcode</a> 🧠 
-- 3. Sharing updates on <a style="padding-left:20px" href="https://www.linkedin.com/in/aditya-gupta-aa7524201/">LinkedIn</a> 💼
+1. Check me out on <a style="padding-left:20px" href="https://www.aditya-gupta.me/">Portfolio</a>📹 ✍
+2. Smashing Brain on <a style="padding-left:20px" href = "https://leetcode.com/aditya_zz/">Leetcode</a> 🧠 
+3. Sharing updates on <a style="padding-left:20px" href="https://www.linkedin.com/in/aditya-gupta-aa7524201/">LinkedIn</a> 💼
 
 <img alt="GitHub Org's stars" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" align="left">
 

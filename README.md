@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/aadityazz/ASSETS/main/Data%20Science%20Enthusiast%2C%20Software%20Developer%20(Presentation%20(169)).png" alt="Aditya Gupta">
 
-<h4 align="center">A passionate Web Developer [MERN Stack] worked on many projects with both Frontend and Backend Development, Besides that, I am also a passionate and enthusiast about Data Science and currently leaning ML.</h4>
+<h4 align="center">A passionate Web Developer [MERN Stack] worked on many projects with both Frontend and Backend Development, Besides that, I am also a passionate and enthusiast about Data Science and currently learning ML.</h4>
 
 ## Find me around the web 🌎:
 1. Check me out on <a style="padding-left:20px" href="https://www.aditya-gupta.me/">Portfolio</a>📹 ✍

@@ -9,10 +9,7 @@
 2. Smashing Brain on <a style="padding-left:20px" href = "https://leetcode.com/aditya_zz/">Leetcode</a> 🧠 
 3. Sharing updates on <a style="padding-left:20px" href="https://www.linkedin.com/in/aditya-gupta-aa7524201/">LinkedIn</a> 💼
 
-<img alt="GitHub Org's stars" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" align="left">
-
-
-<br>
+<img width="100%" height="auto" alt="GitHub Org's stars" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" height="175px" align="center">
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 

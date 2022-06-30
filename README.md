@@ -47,5 +47,5 @@
   </a>
 </div>
 
-[![Aditya s' Activity Graph](https://activity-graph.herokuapp.com/graph?username=aadityazz&custom_title=Aditya%27s%20Contribution%20Graph&theme=gruvbox&bg_color=0D1117&hide_border=true&line=d1a01f&point=c58545)]
+![Aditya s' Activity Graph](https://activity-graph.herokuapp.com/graph?username=aadityazz&custom_title=Aditya%27s%20Contribution%20Graph&theme=gruvbox&bg_color=0D1117&hide_border=true&line=d1a01f&point=c58545)
 

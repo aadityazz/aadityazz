@@ -47,6 +47,5 @@
   </a>
 </div>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+[![Aditya s' Activity Graph](https://activity-graph.herokuapp.com/graph?username=aadityazz&custom_title=Aditya%27s%20Contribution%20Graph&theme=gruvbox&bg_color=0D1117&hide_border=true&line=d1a01f&point=c58545)]
 

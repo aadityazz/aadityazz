@@ -46,5 +46,4 @@
 
 ![Aditya s' Activity Graph](https://activity-graph.herokuapp.com/graph?username=aadityazz&custom_title=Aditya%27s%20Contribution%20Graph&theme=gruvbox&bg_color=0D1117&hide_border=true&line=d1a01f&point=c58545)
 
-<img align-item="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=6b32i3go1j1vu482da9kdxedi&amp;cover_image=true&amp;theme=novatorem&amp;bar_color=1bd0b2&amp;bar_color_cover=true">
 

@@ -1,22 +1,104 @@
 <h1>Hi there 👋 , I'm Aditya Gupta<h1>
 
-<img src="https://raw.githubusercontent.com/aadityazz/ASSETS/main/Data%20Science%20Enthusiast%2C%20Software%20Developer%20(Presentation%20(169)).png" alt="Aditya Gupta">
 
-# 💫 About Me:
-I'm a Full stack software engineer professional with remarkable analytical, logical, and problem-solving skills and proficiency in software engineering, frontend, backend, data analysis, NLP, and predictive modeling using Java, Data Structure and Algorithms, ReactJS, NodeJS, JavaScript, Python, SQL, Machine Learning, NLP, Tableau. Involved in the development of a variety of applications using these tools. I am proficient in working in a fast-paced atmosphere and have strong organizational and interpersonal organizational abilities with an eagerness to learn. Currently pursuing a bachelor's program from Delhi Technological University.
+<a href="#">
+  <img src="https://raw.githubusercontent.com/aadityazz/ASSETS/main/Data%20Science%20Enthusiast%2C%20Software%20Developer%20(Presentation%20(169)).png" alt="Aditya Gupta">
+</a>
+
+<h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&width=435&lines=Backend+Developer;Software+Engineer;Java+Developer;Data+Analyst;Welcome+..." alt="Typing SVG" /></a>
+</h1>
+
+<img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+
+<p>
+I am a highly skilled and motivated Full Stack Software Engineer with a passion for solving complex challenges and creating innovative solutions for Data Structures and Algorithm. With expertise in Java, frontend and backend development, I craft seamless user experiences. Beyond web development, I delve into data analysis, NLP, and predictive modeling using Python, SQL, and Machine Learning. My adaptability shines through active contributions to diverse projects, and my strong organizational skills ensure effective project management in fast-paced environments. Pursuing a bachelor's program at Delhi Technological University, I am eager to make a significant impact in software engineering, pushing technological boundaries and collaborating with like-minded individuals.
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadityazz) 
+## My favorite tools and technologies ⚙️
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aadityazz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aadityazz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityazz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+> Tools and technologies that I have worked with and am interested in
 
-
----
-[![](https://visitcount.itsvg.in/api?id=aadityazz&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="40" height="40" />
+      <br>Javascript
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="40" height="40" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" alt="icon" width="40" height="40" />
+      <br>Typescript
+    </td>    
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="40" height="40" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="40" height="40" />
+      <br>Node
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="40" height="40" />
+      <br>Next
+    </td>   
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=idea" alt="icon" width="40" height="40" />
+      <br>Laravel
+    </td>        
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="40" height="40" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="40" height="40" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="40" height="40" />
+      <br>MongoDB
+    </td>        
+  </tr>
+  <tr>    
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="40" height="40" />
+      <br>Firebase
+    </td> 
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py" alt="icon" width="40" height="40" />
+      <br>postgreSQL
+    </td>  
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=netlfiy" alt="icon" width="40" height="40" />
+      <br>IntelliJ
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="40" height="40" />
+      <br>Postman
+    </td>    
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="40" height="40" />
+      <br>VScode
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="40" height="40" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" alt="icon" width="40" height="40" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=selenium" alt="icon" width="40" height="40" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="40" height="40" />
+      <br>Docker
+    </td> 
+  </tr>
+</table>

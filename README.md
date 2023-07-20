@@ -28,11 +28,11 @@ I am a highly skilled and motivated Full Stack Software Engineer with a passion 
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=java" alt="icon" width="40" height="40" />
-      <br>Vue
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" alt="icon" width="40" height="40" />
-      <br>Typescript
+      <br>Express
     </td>    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="icon" width="40" height="40" />
@@ -44,15 +44,15 @@ I am a highly skilled and motivated Full Stack Software Engineer with a passion 
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="40" height="40" />
-      <br>Next
+      <br>Flask
     </td>   
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=idea" alt="icon" width="40" height="40" />
-      <br>Laravel
+      <br>Idea
     </td>        
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" alt="icon" width="40" height="40" />
-      <br>Java
+      <br>GitHub
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="40" height="40" />
@@ -66,15 +66,15 @@ I am a highly skilled and motivated Full Stack Software Engineer with a passion 
   <tr>    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="40" height="40" />
-      <br>Firebase
+      <br>MySql
     </td> 
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=py" alt="icon" width="40" height="40" />
-      <br>postgreSQL
+      <br>Python
     </td>  
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=netlfiy" alt="icon" width="40" height="40" />
-      <br>IntelliJ
+      <br>Netlify
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="40" height="40" />
@@ -90,11 +90,11 @@ I am a highly skilled and motivated Full Stack Software Engineer with a passion 
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" alt="icon" width="40" height="40" />
-      <br>AWS
+      <br>Sass
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=selenium" alt="icon" width="40" height="40" />
-      <br>GraphQL
+      <br>Selenium
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="40" height="40" />

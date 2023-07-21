@@ -73,8 +73,8 @@ I am a highly skilled and motivated Full Stack Software Engineer with a passion 
       <br>Python
     </td>  
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=netlfiy" alt="icon" width="40" height="40" />
-      <br>Netlify
+      <img src="https://skillicons.dev/icons?i=maven" alt="icon" width="40" height="40" />
+      <br>Maven
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="40" height="40" />
@@ -99,6 +99,10 @@ I am a highly skilled and motivated Full Stack Software Engineer with a passion 
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="40" height="40" />
       <br>Docker
+    </td> 
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="40" height="40" />
+      <br>CSS
     </td> 
   </tr>
 </table>

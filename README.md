@@ -1,4 +1,4 @@
-<h1>Hi there 👋 , I'm Aditya Gupta<h1>
+<h1>Hi there 👋 , I'm Aditya Gupta</h1>
 
 
 <!--a href="#">
